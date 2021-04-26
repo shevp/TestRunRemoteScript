@@ -1,1 +1,1 @@
-print "Hello World from main!"
+print "Hello World from side!"
